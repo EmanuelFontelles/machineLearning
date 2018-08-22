@@ -5,7 +5,7 @@
 
 # Machine Learning Algorithms
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab/tree/Index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab)
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
 > 
@@ -36,7 +36,7 @@ to install it and create an environment for the course.
    * Windows: Double-click on the `.exe` file.
    * macOS: Run `bash Miniconda3-latest-MacOSX-x86_64.sh` in your terminal.
    * Linux: Run `bash Miniconda3-latest-Linux-x86_64.sh` in your terminal.
-1. Open a terminal. Windows: open the Anaconda Prompt from the Start menu.
+2. Open a terminal. Windows: open the Anaconda Prompt from the Start menu.
 
 Once this is installed, the following command will install all required packages in your Python environment:
 ```bash 
