@@ -5,10 +5,10 @@
 
 # Machine Learning Algorithms
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?filepath=Index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab/tree/Index.ipynb)
 [![Build Status](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure.svg?branch=master)](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure)
 
-[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?filepath=Index.ipynb
+[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab/tree/Index.ipynb
 
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
