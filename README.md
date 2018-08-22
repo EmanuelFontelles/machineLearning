@@ -3,7 +3,7 @@
      style="float: left; margin-right: 5px;" />
 ***
 
-# Algorithms and Data Structure
+# Machine Learning Algorithms
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master)
 [![Build Status](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure.svg?branch=master)](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure)
@@ -12,13 +12,12 @@
 
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
->
-> Theses algorithms contained here are compilations from the classes of [Prof. André Auto Moreira](https://scholar.google.com/citations?user=Bnw-fLYAAAAJ&hl=pt-PT) at Universidade Federal do Ceará, Fortaleza - CE/Brazil.
+> 
+> Theses notebooks contained here are machine learning algorithms and some Python libraries useful notebooks as Scikit-Learn [continue...]
+> 
 
 ## Algorithms:
-* [Binary Search](./notebooks/binarySearch.ipynb)
-* [Binary Search Tree (Search and Insertion)](./notebooks/binarySearchTree.ipynb)
-* [Disjoint Sets](./notebooks/disjointSet.ipynb)
+* Linear Regression
 
 ## Usage
 
