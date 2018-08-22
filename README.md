@@ -6,10 +6,6 @@
 # Machine Learning Algorithms
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab/tree/Index.ipynb)
-[![Build Status](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure.svg?branch=master)](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure)
-
-[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab/tree/Index.ipynb
-
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
 > 
@@ -77,6 +73,16 @@ browser without installing anything.
 
 [Binder] creates executable environment making your code immediately reproducible by anyone, anywhere.
 
+## External Repositories
+
+Our `invoke demofiles` clones repos from other authors.  The details of these repos are as follows:
+
+| Name  | Author |License |
+|---|---|---|
+| PythonDataScienceHandbook/LICENSE-CODE  | Jake Vanderplas  | [MIT](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/LICENSE-CODE)|
+| PythonDataScienceHandbook/LICENSE-TEXT   |  Jake Vanderplas | [CC-BY-NC-ND-3.0](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/LICENSE-TEXT) |
+| TensorFlow-Examples   |  Aymeric Damien | [MIT](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/LICENSE) |
+
 ## Disclaimer
 This is a personal repository that is not meant for public use at this time. It is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. No installation or technical support will be provided.
 
@@ -88,3 +94,4 @@ This is a personal repository that is not meant for public use at this time. It 
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
 [Binder]: https://mybinder.org/
+[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab/tree/Index.ipynb
