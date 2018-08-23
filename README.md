@@ -21,7 +21,8 @@ browser without installing anything or you can setup a [local instalation](#loca
 
 > [Binder] lets you easily host interactive Jupyter notebooks and let anyone on the internet use them interactively immediately! Binder creates executable environment making your code immediately reproducible by anyone, anywhere.
 
-[Local Instalation](#local-instalation)
+
+[](#local-instalation)
 ### Local Instalation
 This tutorial requires the following packages:
 
