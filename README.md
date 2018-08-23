@@ -18,16 +18,18 @@
 ## Installation Notes
 This tutorial requires the following packages:
 
-- Python version 2.6-2.7 or 3.3+
-- `numpy` version 1.5 or later: http://www.numpy.org/
+- Python version 2.7 or 3.6+
+- `numpy` version 1.15 or later: http://www.numpy.org/
 - `scipy` version 0.10 or later: http://www.scipy.org/
-- `matplotlib` version 1.3 or later: http://matplotlib.org/
-- `scikit-learn` version 0.14 or later: http://scikit-learn.org
+- `matplotlib` version 2.2.2 or later: http://matplotlib.org/
+- `scikit-learn` version 0.19.2 or later: http://scikit-learn.org
 - `ipython` version 2.0 or later, with notebook support: http://ipython.org
-- `seaborn` version 0.5 or later
+- `seaborn` version 0.8 or later: https://seaborn.pydata.org/
 
-For a local installation, you will need [git], [Python]. If you don't know how to install those on your platform, I recommend to install [Miniconda], a distribution of the [conda] package and environment manager. Please follow the below instructions
-to install it and create an environment for the course.
+For a local installation, please follow the tutorial bellow. If you don't know how to install those on your platform, I recommend to install [Miniconda], a distribution of the [conda] package and environment manager. Please follow the below instructions
+to install it and create an environment for the repository.
+
+### Local Instalation
 
 1. Download the Python 3.x installer for Windows, macOS, or Linux from
    <https://conda.io/miniconda.html> and install with default settings. Skip
@@ -53,7 +55,7 @@ Every time you want to work, do the following:
 1. Edit and run the notebooks from your browser.
 
 ## Downloading the Tutorial Materials
-I would highly recommend using git, not only for this tutorial, but for the
+I would highly recommend using [git], not only for this tutorial, but for the
 general betterment of your life.  Once git is installed, you can clone the
 material in this tutorial by using the git address shown above:
 
