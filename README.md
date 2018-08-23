@@ -17,15 +17,11 @@
 
 ## Installation Notes
 You can view the tutorial materials using the excellent service from [Binder]. Click in the Binder bagde [![Binder](https://mybinder.org/badge.svg)][binder_lab] to play with the notebooks from your
-browser without installing anything or you can setup a [local instalation](#instalation).
+browser without installing anything or you can setup a [local instalation](#local-instalation).
 
+> [Binder] lets you easily host interactive Jupyter notebooks and let anyone on the internet use them interactively immediately! Binder creates executable environment making your code immediately reproducible by anyone, anywhere.
 
-> [Binder] lets you easily host interactive Jupyter notebooks and let anyone on the internet use them interactively immediately!
-
-[Binder] creates executable environment making your code immediately reproducible by anyone, anywhere.
-
-
-[Local Instalation](#instalation)
+[Local Instalation](#local-instalation)
 ### Local Instalation
 This tutorial requires the following packages:
 
