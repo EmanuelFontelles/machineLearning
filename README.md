@@ -16,6 +16,17 @@
 * Linear Regression
 
 ## Installation Notes
+You can view the tutorial materials using the excellent service from [Binder]. Click in the Binder bagde [![Binder](https://mybinder.org/badge.svg)][binder_lab] to play with the notebooks from your
+browser without installing anything or you can setup a [local instalation](#instalation).
+
+
+> [Binder] lets you easily host interactive Jupyter notebooks and let anyone on the internet use them interactively immediately!
+
+[Binder] creates executable environment making your code immediately reproducible by anyone, anywhere.
+
+
+[Local Instalation](#instalation)
+### Local Instalation
 This tutorial requires the following packages:
 
 - Python version 2.7 or 3.6+
@@ -28,8 +39,6 @@ This tutorial requires the following packages:
 
 For a local installation, please follow the tutorial bellow. If you don't know how to install those on your platform, I recommend to install [Miniconda], a distribution of the [conda] package and environment manager. Please follow the below instructions
 to install it and create an environment for the repository.
-
-### Local Instalation
 
 1. Download the Python 3.x installer for Windows, macOS, or Linux from
    <https://conda.io/miniconda.html> and install with default settings. Skip
@@ -68,12 +77,7 @@ repository is a much better option.
 
 
 ## Usage and Notebook Listing
-You can view the tutorial materials using the excellent service from [Binder]. Click in the Binder bagde [![Binder](https://mybinder.org/badge.svg)][binder_lab] to play with the notebooks from your
-browser without installing anything.
 
-> [Binder] lets you easily host interactive Jupyter notebooks and let anyone on the internet use them interactively immediately!
-
-[Binder] creates executable environment making your code immediately reproducible by anyone, anywhere.
 
 ## External Repositories
 
