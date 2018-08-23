@@ -4,7 +4,7 @@
 ***
 
 # Machine Learning Algorithms
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab)
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
