@@ -15,7 +15,7 @@
 ## Algorithms:
 * Linear Regression
 
-## Installation Notes
+## Usage and Installation Notes
 ### Usage
 You can view the tutorial materials using the excellent service from [Binder]. Click in the Binder bagde [![Binder](https://mybinder.org/badge.svg)][binder_lab] to play with the notebooks from your
 browser without installing anything or you can setup a [local instalation](#local-instalation).
@@ -73,17 +73,14 @@ the contents of this repository as a zip file.  I may make minor changes to
 the repository in the days before the tutorial, however, so cloning the
 repository is a much better option.
 
-
-## Usage and Notebook Listing
-
-
 ## External Repositories
 
-Our `invoke demofiles` clones repos from other authors.  The details of these repos are as follows:
+This repository contain some notebooks from other authors.  The details of these repos are in the links follows:
 
 | Name  | Author |License |
 |---|---|---|
-| PythonDataScienceHandbook/LICENSE-CODE  | Jake Vanderplas  | [MIT](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/LICENSE-CODE)|
+| [sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial) | Jake Vanderplas  | [MIT](https://github.com/jakevdp/sklearn_tutorial/blob/master/LICENSE)|
+| [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Jake Vanderplas  | [MIT](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/LICENSE-CODE)|
 
 ## Disclaimer
 This is a personal repository that is not meant for public use at this time. It is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. No installation or technical support will be provided.
