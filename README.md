@@ -54,7 +54,7 @@ Every time you want to work, do the following:
    open a new tab in your web browser.
 1. Edit and run the notebooks from your browser.
 
-## Downloading the Tutorial Materials
+### Downloading the Tutorial Materials
 I would highly recommend using [git], not only for this tutorial, but for the
 general betterment of your life.  Once git is installed, you can clone the
 material in this tutorial by using the git address shown above:
