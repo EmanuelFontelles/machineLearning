@@ -16,6 +16,7 @@
 * Linear Regression
 
 ## Installation Notes
+### Usage
 You can view the tutorial materials using the excellent service from [Binder]. Click in the Binder bagde [![Binder](https://mybinder.org/badge.svg)][binder_lab] to play with the notebooks from your
 browser without installing anything or you can setup a [local instalation](#local-instalation).
 
