@@ -17,6 +17,10 @@
   * Supervised learning
     * [Classification and Linear Regression](/notebook/01-sklearn/02.1-Machine-Learning-Intro.ipynb)
     * [K Nearest Neighbors (kNN)](/notebook/01-sklearn/02.2-Basic-Principles.ipynb)
+    * [Support vector machine (SVM)](/notebook/01-sklearn/02.2-Basic-Principles.ipynb)
+  * Unsupervised learning
+    * Clustering:
+      * [K-means](/notebook/01-sklearn/02.2-Basic-Principles.ipynb)    
 
 ## Usage and Installation Notes
 ### Usage
