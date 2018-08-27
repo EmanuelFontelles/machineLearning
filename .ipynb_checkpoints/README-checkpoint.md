@@ -13,7 +13,9 @@
 > 
 
 ## Algorithms:
-* Linear Regression
+* [Scikit-Learn](http://scikit-learn.org) Module Python:
+  * [Linear Regression](/notebook/01-sklearn/02.1-Machine-Learning-Intro.ipynb)
+  * [Classification and Linear Regression](/notebook/01-sklearn/02.2-Basic-Principles.ipynb)
 
 ## Usage and Installation Notes
 ### Usage
