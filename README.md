@@ -13,6 +13,7 @@
 > 
 
 ## Algorithms:
+** try to understand the algoritms first, then move to use sklearn module **
 * [Scikit-Learn](http://scikit-learn.org) Module Python:
   * Supervised learning
     * [Classification and Linear Regression](/notebook/01-sklearn/02.1-Machine-Learning-Intro.ipynb)
