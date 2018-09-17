@@ -21,7 +21,11 @@
     * [Support vector machine (SVM)](/notebook/01-sklearn/02.2-Basic-Principles.ipynb)
   * Unsupervised learning
     * Clustering:
-      * [K-means](/notebook/01-sklearn/02.2-Basic-Principles.ipynb)    
+      * [K-means](/notebook/01-sklearn/02.2-Basic-Principles.ipynb)
+    * Dimensionality reduction PCA
+    * Random Forests
+    * Density GMM
+    
 
 ## Usage and Installation Notes
 ### Usage
