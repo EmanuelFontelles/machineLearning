@@ -25,6 +25,7 @@
     * Dimensionality reduction PCA
     * Random Forests
     * Density GMM
+## Coursera - Machine Learning:
     
 
 ## Usage and Installation Notes
