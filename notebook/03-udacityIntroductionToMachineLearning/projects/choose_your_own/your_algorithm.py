@@ -1,11 +1,11 @@
-#!/usr/bin/python
-
+#%%
+#!/usr/bin/python2
 import matplotlib.pyplot as plt
 from prep_terrain_data import makeTerrainData
 from class_vis import prettyPicture
 
 features_train, labels_train, features_test, labels_test = makeTerrainData()
-
+#%%
 
 ### the training data (features_train, labels_train) have both "fast" and "slow"
 ### points mixed together--separate them so we can give them different colors
