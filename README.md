@@ -12,7 +12,7 @@
 > Theses notebooks contained here are machine learning algorithms and some Python libraries useful notebooks as Scikit-Learn [continue...]
 > 
 
-## Algorithms:
+## Scikit-Learn Algorithms:
 ** try to understand the algoritms first, then move to use sklearn module **
 * [Scikit-Learn](http://scikit-learn.org) Module Python:
   * Supervised learning
@@ -27,6 +27,9 @@
     * Density GMM
 ## Coursera - Machine Learning:
     
+## Udacity - Introduction to Machine Learning?:
+
+## Tensorflow and Tensorboard:
 
 ## Usage and Installation Notes
 ### Usage
