@@ -26,7 +26,11 @@
     * Random Forests
     * Density GMM
 ## Coursera - Machine Learning:
-    
+    * Linear Regression
+    * Logistic Regression
+    * Neural Networks
+    * Backward Propagation
+    *     
 ## Udacity - Introduction to Machine Learning?:
 
 ## Tensorflow and Tensorboard:
