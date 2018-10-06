@@ -1,5 +1,4 @@
 #%%
-#!/usr/bin/python2
 import matplotlib.pyplot as plt
 from prep_terrain_data import makeTerrainData
 from class_vis import prettyPicture
@@ -37,17 +36,18 @@ y = labels_train
 import numpy as np
 from sklearn.ensemble import AdaBoostRegressor
 from sklearn.tree import DecisionTreeRegressor
+from sklearn.metrics import accuracy_score
 
+rng = np.random.RandomState(1)
 # Fit regression model
 clf = AdaBoostRegressor(DecisionTreeRegressor(max_depth=4), n_estimators=300, random_state=rng)
-
 clf.fit(X, y)
 
 # Predict
-y_pred = clf.predict(X)
+#y_pred = clf.predict(X)
 
-acc = accuracy_score(y, y_pred)
-print(acc)
+#acc = accuracy_score(y, y_pred)
+#print(acc)
 
 try:
     prettyPicture(clf, features_test, labels_test)
