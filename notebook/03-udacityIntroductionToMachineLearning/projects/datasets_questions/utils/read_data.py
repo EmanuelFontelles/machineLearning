@@ -1,6 +1,9 @@
-#!/usr/bin/python
+import pickle
+import sys
+sys.path.append('../final_project/')
 
-""" 
+def readData():
+    """ 
     Starter code for exploring the Enron dataset (emails + finances);
     loads up the dataset (pickled dict of dicts).
 
@@ -12,9 +15,7 @@
     but here's an example to get you started:
 
     enron_data["SKILLING JEFFREY K"]["bonus"] = 5600000
+    "../final_project/final_project_dataset.pkl"    
+    """
     
-"""
-
-import pickle
-
-enron_data = pickle.load(open("../final_project/final_project_dataset.pkl", "r"))
+    return(pickle.load(open('../final_project/final_project_dataset.pkl', 'rb')))
