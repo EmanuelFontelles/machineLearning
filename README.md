@@ -30,7 +30,7 @@
     * Logistic Regression
     * Neural Networks
     * Backward Propagation
-    *     
+    * Advice for Applying Machine Learning   
 ## Udacity - Introduction to Machine Learning?:
 
 ## Tensorflow and Tensorboard:
