@@ -9,7 +9,7 @@
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
 > 
-> Theses notebooks contained here are machine learning algorithms and some Python libraries useful notebooks as Scikit-Learn [continue...]
+> Theses notebooks contained here are machine learning algorithms and some Python libraries useful notebooks as Scikit-Learn 
 > 
 
 ## Scikit-Learn Algorithms:
