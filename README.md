@@ -1,4 +1,4 @@
-<img src="./images/veen.jpeg"
+<img src=./images/veen.jpeg
      width="150" height="100"
      style="float: left; margin-right: 5px;" />
 ***
