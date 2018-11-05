@@ -25,16 +25,8 @@ centroids = zeros(K, n);
 %
 % Note: You can use a for-loop over the centroids to compute this.
 %
-
-
-
-
-
-
-
-
-% =============================================================
-
-
+for k=1:K % for-loop over the centroids 
+   centroids(k, :) = mean(X(idx==k, :));
 end
-
+% =============================================================
+end
